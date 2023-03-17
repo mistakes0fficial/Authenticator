@@ -1,0 +1,11 @@
+name: Authenticator
+main: com.stefthedev.authenticator.Authenticator
+version: ${project.version}
+author: StefTheDev
+
+commands:
+  authenticator:
+    description: The authentication plugin.
+    aliases:
+      - auth
+      - authentication
